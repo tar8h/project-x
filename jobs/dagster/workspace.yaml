@@ -1,0 +1,5 @@
+load_from:
+  - python_file:
+      relative_path: /app/jobs/dagster/defs.py
+      working_directory: /app
+      location_name: project_x
